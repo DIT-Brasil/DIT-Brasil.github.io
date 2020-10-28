@@ -1,0 +1,64 @@
+#nosso_trb{
+    text-align: end;
+    padding-right: 20px;
+    padding-top: 30px;
+    font: normal;
+}
+#txtnss{
+    color: rgb(104, 104, 247);
+}
+
+#prje{
+    padding-top: 100px;
+    padding-bottom: 300px;
+    padding-left: 10px;
+
+}
+
+.projeto1{
+
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+.projeto2{
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 100px;
+
+
+}
+.projeto1:hover{
+     width: 650px;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+   cursor: pointer;
+}
+.projeto2:hover{
+    width: 700px;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 100px;
+    cursor: pointer;
+
+}
+
+
+
+#total{
+    background-color: rgba(27, 26, 26, 0.212);
+    
+}
+
+#sdev{
+    padding-bottom: 90px;
+    padding-left: 10px;
+}
+.rounded:hover{
+
+    background-color: rgba(0, 0, 0, 0.096);
+    
+}
